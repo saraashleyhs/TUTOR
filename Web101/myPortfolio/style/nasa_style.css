@@ -1,0 +1,26 @@
+body{
+  margin: 0 25% 0 25%;
+}
+
+header{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../images/space.jpg);
+  width: 850px;
+  height: 450px;
+}
+
+h1{
+  font-size: 4em;
+  color: white;
+}
+
+#container{
+  display:flex;
+  justify-content: center;
+}
+
+.card{
+  width: 270px;
+}
